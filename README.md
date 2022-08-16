@@ -8,7 +8,22 @@
   I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
   <br/>
   My tech skills: 
-    -->
+  <br/>
+    --> JavaScript
+  <br/>
+    --> HTML/CSS
+  <br/>
+    --> React
+  <br/>
+    --> Redux
+  <br/>
+    --> Express
+  <br/>
+    --> Node JS
+  <br/>
+    --> PostgreSQL
+  <br/>
+    --> Sequelize
 
 
 
