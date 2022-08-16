@@ -7,7 +7,7 @@
 <p>
   I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
   <br/>
-  My tech skills: 
+  ⌨️ My tech skills: 
   <br/>
     --> JavaScript
   <br/>
@@ -24,7 +24,9 @@
     --> PostgreSQL
   <br/>
     --> Sequelize
-
+</p>
+  🔬 I am currently learning TypeScript and open to learn any other tools that can help me to grow up as a professional. 🙌
+    
 
 
 <!--
