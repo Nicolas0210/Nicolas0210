@@ -1,6 +1,14 @@
 <div id="header" align="center">
   <img src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif"/>
 </div>
+ 
+<h1> Hi there! My name is Nicolas 👋</h1>
+<h2>About Me</h2>
+<p>
+  I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
+  <br/>
+  My tech skills: 
+    -->
 
 
 
