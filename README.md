@@ -28,4 +28,4 @@
   🔬 I am currently learning TypeScript and open to learn any other tools that can help me to grow up as a professional. 🙌
 
 <h2>💬 Conect with me: </h2>
-  --> https://www.linkedin.com/in/nicolas-bringas-full-stack
+  --> Linkedin: https://www.linkedin.com/in/nicolas-bringas-full-stack
